@@ -2,7 +2,7 @@
 
 WiP
 
-This is just another SSH Honeypot. Nothing special about it. Code has only been tested on linux machines so take that as you will.
+This is just another SSH Honeypot. 
 
 ## How to Use:
 
