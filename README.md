@@ -7,7 +7,10 @@ This is just another SSH Honeypot. Nothing special about it. Code has only been 
 ## How to Use:
 
 *Required libraries: paramiko and geoip2*
-
+    
+    pip install paramiko
+    pip install geoip2
+    
 
 *Will need the maxmind free databases if you want to use the functionality that tells you information about the ip address. Located at: https://dev.maxmind.com/geoip/geolite2-free-geolocation-data. Requires an account*
 
