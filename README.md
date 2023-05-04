@@ -2,7 +2,7 @@
 
 WiP
 
-This is just another SSH Honeypot with an added "find out where the ip address is coming from" functionality (optional).
+This is just another SSH Honeypot with an added "find out where the ip address is coming from" functionality (optional and shouldn't be used to identify addresses or households).
 
 ## How to Use:
 
