@@ -15,7 +15,9 @@ This is just another SSH Honeypot with an added "find out where the ip address i
 *Will need the maxmind free databases if you want to use the functionality that tells you information about the ip address. Located at: https://dev.maxmind.com/geoip/geolite2-free-geolocation-data. Requires an account*
 
 
-Example Usage: python3 Another_SSH-Honeypot --p 2222 --h 0.0.0.0 
+Example Usage:  
+
+    python3 Another_SSH-Honeypot --p 2222 --h 0.0.0.0
 
 OPTIONS:  
     
